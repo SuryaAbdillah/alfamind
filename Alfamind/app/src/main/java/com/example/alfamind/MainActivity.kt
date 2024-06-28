@@ -295,7 +295,7 @@ fun SignupScreen(onBackToLogin: () -> Unit, onSignupSuccess: () -> Unit) {
                 ),
                 placeholder = {
                     Text(
-                        text = "example@gmail.com",
+                        text = "masukkan username",
                         style = MaterialTheme.typography.titleSmall,
                         color = colorResource(id = R.color.abu_gelap)
                     )
