@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alfamind</string>
+    <string name="produk_name">Sari Roti</string>
+    <string name="produk_price">Rp20.000</string>
+    <string name="nama_owner">Surya Mind</string>
+    <string name="email_owner">surya@gmail.com</string>
+    <string name="foto_profil">foto profil</string>
+    <string name="belum_akun">belum punya akun?</string>
+    <string name="sudah_akun">sudah punya akun?</string>
+</resources>
